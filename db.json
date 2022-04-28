@@ -1,6 +1,6 @@
 {
     "1": {
-        "name": "AliFish #1",
+        "name": "Marmut #1",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "external_url" : "https://example.com/?token_id=1",
         "image": "https://kebunmajubersama.com/wp-content/uploads/bernie.svg",
@@ -24,7 +24,7 @@
         ]
     },
     "2": {
-        "name": "AliFish #2",
+        "name": "Marmut #2",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "external_url" : "https://example.com/?token_id=2",
         "image": "https://kebunmajubersama.com/wp-content/uploads/bernie2.svg",
