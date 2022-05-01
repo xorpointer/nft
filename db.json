@@ -4,8 +4,6 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "external_url" : "https://example.com/?token_id=1",
         "image": "https://kebunmajubersama.com/wp-content/uploads/bernie.svg",
-        "seller_fee_basis_points": 100,
-        "fee_recipient": "0x4919BAC948BbCf031d4c66cF7Ea9622CB1E5Be8e",
         "attributes": [
             {
                 "trait_type": "Material",
@@ -30,8 +28,6 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
         "external_url" : "https://example.com/?token_id=2",
         "image": "https://kebunmajubersama.com/wp-content/uploads/bernie2.svg",
-        "seller_fee_basis_points": 100,
-        "fee_recipient": "0x4919BAC948BbCf031d4c66cF7Ea9622CB1E5Be8e",
         "attributes": [
             {
                 "trait_type": "Material",
